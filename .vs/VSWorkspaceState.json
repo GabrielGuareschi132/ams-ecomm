@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Src",
+    "\\Src\\AMS.ECOMM.API",
+    "\\Src\\AMS.ECOMM.API\\DependencyInjection",
+    "\\Src\\AMS.ECOMM.DOMAIN",
+    "\\Src\\AMS.ECOMM.DOMAIN\\Core",
+    "\\Src\\AMS.ECOMM.DOMAIN\\Core\\Entities",
+    "\\Src\\AMS.ECOMM.DOMAIN\\Core\\Interfaces",
+    "\\Src\\AMS.ECOMM.DOMAIN\\Core\\Interfaces\\Repository",
+    "\\Src\\AMS.ECOMM.DOMAIN\\Core\\Interfaces\\Services"
+  ],
+  "SelectedNode": "\\Src\\AMS.ECOMM.API\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}

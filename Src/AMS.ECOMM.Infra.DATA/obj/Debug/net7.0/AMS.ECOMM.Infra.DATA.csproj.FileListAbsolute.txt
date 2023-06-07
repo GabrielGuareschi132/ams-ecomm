@@ -1,0 +1,5 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\João\Programmers\AMS\Src\AMS.ECOMM.Infra.DATA\obj\Debug\net7.0\AMS.ECOMM.Infra.DATA.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\João\Programmers\AMS\Src\AMS.ECOMM.Infra.DATA\obj\Debug\net7.0\AMS.ECOMM.Infra.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\João\Programmers\AMS\Src\AMS.ECOMM.Infra.DATA\obj\Debug\net7.0\AMS.ECOMM.Infra.DATA.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\João\Programmers\AMS\Src\AMS.ECOMM.Infra.DATA\obj\Debug\net7.0\AMS.ECOMM.Infra.DATA.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\João\Programmers\AMS\Src\AMS.ECOMM.Infra.DATA\obj\Debug\net7.0\AMS.ECOMM.Infra.DATA.csproj.CoreCompileInputs.cache
